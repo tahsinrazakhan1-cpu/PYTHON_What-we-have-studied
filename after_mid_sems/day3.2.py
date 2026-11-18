@@ -1,0 +1,7 @@
+import math
+
+x = int(input())
+y = int(input())
+
+print(math.lcm(x, y))
+print(math.gcd(x, y))
